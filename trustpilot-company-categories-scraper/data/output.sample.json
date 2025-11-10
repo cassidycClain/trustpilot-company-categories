@@ -1,0 +1,96 @@
+[
+  {
+    "ID": "https://www.trustpilot.com/review/example.com",
+    "domain": "example.com",
+    "ratingValue": 4.5,
+    "reviewCount": 1500,
+    "name": "Example Gaming Company",
+    "description": "Example Gaming Company provides online gaming services and support.",
+    "image": "https://example.com/logo.png",
+    "country": "US",
+    "address": "123 Main St",
+    "city": "San Francisco",
+    "zipCode": "94103",
+    "website": "https://example.com",
+    "email": null,
+    "phone": "+1-800-123-4567",
+    "categories": [
+      "Gaming",
+      "Entertainment"
+    ],
+    "categoriesID": [
+      "gaming",
+      "entertainment"
+    ],
+    "lastReviews": [
+      {
+        "id": "abc123xyz",
+        "text": "Great experience with this company!",
+        "title": "Excellent Service and Products",
+        "rating": 5,
+        "date": {
+          "createdAt": "2024-01-15T10:30:00+00:00"
+        },
+        "consumer": {
+          "id": "user123",
+          "displayName": "JohnDoe",
+          "imageUrl": "https://example.com/avatar.jpg",
+          "isVerified": true,
+          "numberOfReviews": 10,
+          "countryCode": "US"
+        }
+      }
+    ],
+    "reviews": [
+      {
+        "id": "abc123xyz",
+        "text": "Great experience with this company!",
+        "title": "Excellent Service and Products",
+        "rating": 5,
+        "date": {
+          "createdAt": "2024-01-15T10:30:00+00:00"
+        },
+        "consumer": {
+          "id": "user123",
+          "displayName": "JohnDoe",
+          "imageUrl": "https://example.com/avatar.jpg",
+          "isVerified": true,
+          "numberOfReviews": 10,
+          "countryCode": "US"
+        }
+      }
+    ],
+    "rating": {
+      "bestRating": "5",
+      "worstRating": "1",
+      "ratingValue": "4.5",
+      "reviewCount": "1500"
+    },
+    "data": {
+      "one": 10,
+      "two": 5,
+      "three": 15,
+      "four": 30,
+      "five": 1440,
+      "total": 1500
+    },
+    "similarBusinessUnits": [
+      {
+        "businessUnitId": "67890",
+        "businessUnitDisplayName": "Another Gaming Company",
+        "businessUnitIdentifyingName": "another-gaming-company",
+        "businessUnitLogo": "https://example.com/another-logo.png",
+        "numberOfReviews": 800,
+        "stars": 4.2,
+        "trustScore": 85
+      }
+    ],
+    "aiSummary": {
+      "summary": "Example Gaming Company is a business listed on Trustpilot operating in the Entertainment, Gaming sector and appears to be based in San Francisco, US with an average rating of 4.5 from 1500 reviews.",
+      "status": "success",
+      "lang": "en",
+      "updatedAt": "2024-06-01T12:00:00+00:00"
+    },
+    "sourceUrl": "https://www.trustpilot.com/review/example.com"
+  }
+]
