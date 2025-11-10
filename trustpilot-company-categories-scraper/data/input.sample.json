@@ -1,0 +1,13 @@
+{
+  "searchType": "category",
+  "categoryId": "online_marketing_agency",
+  "allPages": false,
+  "pages": 1,
+  "includeReviews": true,
+  "maxReviewsPerCompany": 5,
+  "minTrustScore": 3.5,
+  "verifiedOnly": false,
+  "country": "US",
+  "language": "en",
+  "minReviews": 10
+}
